@@ -10,8 +10,8 @@ http://www.tooplate.com/view/2109-the-card
 
 body {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 19px;
-  color: #ffffff;
+  font-size: 100px;
+  color: white;
   overflow-x: hidden;
   background: #25332e;
 }
@@ -24,7 +24,7 @@ footer a:link, footer a:visited {
 	color: #FFF;
 }
 .tm-text-blue {
-  color: #00ccfc;
+  color: white;
 }
 
 .tm-main-container {
@@ -52,7 +52,7 @@ footer a:link, footer a:visited {
 }
 
 .tm-navbar-menu:hover {
-  color: #950000;
+  color: white;
   text-decoration: none;
 }
 
@@ -67,7 +67,7 @@ footer a:link, footer a:visited {
 
 .tm-nav-link:link,
 .tm-nav-link:visited {
-  color: black;
+  color: white;
   background-color: white;
   padding: 10px 40px;
   display: block;
@@ -98,7 +98,7 @@ footer a:link, footer a:visited {
 }
 
 .tm-site-subtitle {
-  color: #cdffd0;
+  color: white;
   font-size: 1.4rem;
   font-weight: 300;
 }
@@ -215,7 +215,7 @@ footer {
 }
 
 .slick-dots li a:not([href]):not([tabindex]) {
-  color: black;
+  color: white;
   display: block;
   margin-top: 5px;
 }
