@@ -13,7 +13,7 @@ body {
   font-size: 100px;
   color: white;
   overflow-x: hidden;
-  background: #25332e;
+  background: black;
 }
 
 a {
@@ -79,7 +79,7 @@ footer a:link, footer a:visited {
 .tm-nav-link:hover,
 .tm-nav-link:focus {
   text-decoration: none;
-  color: #950000;
+  color: white;
 }
 
 .tm-bg-dark {
@@ -145,7 +145,7 @@ footer a:link, footer a:visited {
 .tm-link:visited {
   background-color: white;
   padding: 15px 30px;
-  color: black;
+  color: white;
   border-radius: 5px;
   display: inline-block;
   margin-left: 40px;
